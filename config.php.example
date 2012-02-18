@@ -1,0 +1,10 @@
+<?php
+    define("DB_HOST","localhost");
+    define("DB_NAME","xxxx");
+    define("DB_PASSWORD","xxxx");
+    define("DB_DBNAME","english");
+    define("DB_PORT","3306");
+/////////////////
+    define("Redis_HOST","localhost")
+    define("Redis_PORT","your_redisport")
+    define("Redis_PASSWORD","your_redispassword")

@@ -1,0 +1,6 @@
+.buildpath
+.project
+.settings
+.svn
+*.swp
+config.php
